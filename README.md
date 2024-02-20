@@ -2,7 +2,6 @@
 
 Welcome to Domina Python OOP, a Python project showcasing Object-Oriented Programming (OOP) concepts.
 
-![Python OOP](https://your-image-url.com)
 
 ## Description
 
